@@ -1,5 +1,6 @@
 #def mix_string(s1, s2):
 
+testing chnages
 
 s1 = input("enter first string ")
 #print(s1)
