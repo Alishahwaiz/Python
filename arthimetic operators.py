@@ -7,3 +7,4 @@ if bad_history:
     discount= price*10/100
     price = price-discount
     print("your price will be",price)
+#test
